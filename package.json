@@ -35,6 +35,7 @@
     "@tanstack/react-query": "4.22.0",
     "babel-preset-medusa-package": "^1.1.13",
     "body-parser": "^1.19.0",
+    "build": "^0.1.4",
     "cors": "^2.8.5",
     "dotenv": "16.0.3",
     "express": "^4.17.2",
